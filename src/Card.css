@@ -1,0 +1,9 @@
+/* h2 {
+    font-size: 1em;
+} */
+
+div div h2, p {
+    width: auto;
+    font-size: 100%;
+}
+
